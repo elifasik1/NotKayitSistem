@@ -1,0 +1,12 @@
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\bin\Debug\Not_kayit_Uygualaması.exe.config
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\bin\Debug\Not_kayit_Uygualaması.exe
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\bin\Debug\Not_kayit_Uygualaması.pdb
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.csproj.AssemblyReference.cache
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.Form1.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.ogrenci_detay.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.ogretmengrs.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.Properties.Resources.resources
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.csproj.GenerateResource.cache
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.csproj.CoreCompileInputs.cache
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.exe
+C:\Users\elifa\OneDrive\Masaüstü\egitim\Not_kayit_Uygualaması\Not_kayit_Uygualaması\obj\Debug\Not_kayit_Uygualaması.pdb
